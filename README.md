@@ -11,12 +11,12 @@ Currently, two official plugins are available:
 
 Teknolojiler:
 
-React Router 6.8
-localStorage
-React
+- React Router 6.8
+- localStorage
+- React
 
 Özellikler:
 
-Gelir ve gider ekleme
-Verileri yerel depolama ile saklama
-Dinamik yönlendirme ve sayfalar arası geçiş"
+- Gelir ve gider ekleme
+- Verileri yerel depolama ile saklama
+- Dinamik yönlendirme ve sayfalar arası geçiş"
