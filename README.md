@@ -20,3 +20,6 @@ Teknolojiler:
 - Gelir ve gider ekleme
 - Verileri yerel depolama ile saklama
 - Dinamik yönlendirme ve sayfalar arası geçiş"
+
+![image](https://github.com/user-attachments/assets/b746a1b8-d71e-4b39-a43c-9ed800105706)
+
